@@ -1,8 +1,8 @@
 # All-Computer-Science-Materials
 Those courses for not Technical and Technical backgroud of Computer Science Field. 
 
-#Table of Containts 
-<ol>Introduction to Computer Science</ol>
+## Table of Containts 
+Introduction to Computer Science
 Data Structures and Algorithms
 Systems Programming
 Database Systems
@@ -26,9 +26,9 @@ Computational Finance
 Blockchain Development
 Misc
 
-#Courses
+## Courses
 
-##Introduction to Computer Science
+## Introduction to Computer Science
 
 CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild
 6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW
@@ -57,7 +57,7 @@ CS 101 - Introduction to Computer Science - Udacity
 Modern C++ Course (2018) - Bonn University
 Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn
 
-##Data Structures and Algorithms
+## Data Structures and Algorithms
 
 6.006 - Introduction to Algorithms, MIT OCW
 Algorithms: Design and Analysis 1 - Stanford University
@@ -107,7 +107,7 @@ Parallel Algorithm - IIT Kanpur
 Graph Theory - IISC Bangalore
 Data Structures - mycodeschool
 
-##Systems Programming
+## Systems Programming
 
 15-213 Introduction to Computer Systems, Fall 2015 - CMU
 CS361 - COMPUTER SYSTEMS - UIC
@@ -129,7 +129,7 @@ Introduction to Operating Systems - IIT Madras
 CS194 Advanced Operating Systems Structures and Implementation, Spring 2013 InfoCoBuild, UC Berkeley
 CSE 60641 - Graduate Operating Systems, Fall 08
 
-##Distributed Systems
+## Distributed Systems
 
 CS 677 - Distributed Operating Systems, Spring 16 - Umass OS
 CS 436 - Distributed Computer Systems - U Waterloo
@@ -153,7 +153,7 @@ Storage Systems - IISC Bangalore
 MAP6264 - Queueing Theory - FAU(Video Lectures)
 EE 380 Colloquim on Computer Systems - Stanford University (Lecture videos)
 
-##Database Systems
+## Database Systems
 
 CMPSC 431W Database Management Systems, Fall 2015 - Penn State University Lectures - YouTube
 CS121 - Introduction to Relational Database Systems, Fall 2016 - Caltech
@@ -178,7 +178,7 @@ D4M - Signal Processing on Databases
 In-Memory Data Management (2013)Prof. Hasso Plattner - HPI
 Distributed Data Management (WT 2019/20) - Dr. Thorsten Papenbrock - HPI
 
-##Software Engineering
+## Software Engineering
 
 Object Oriented Design
 ECE 462 Object-Oriented Programming using C++ and Java - Purdue
@@ -252,7 +252,7 @@ Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras
 Semantic Web Technologies by Dr. Harald Sack - HPI
 Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack - HPI
 
-##Machine Learning
+## Machine Learning
 
 Introduction to Machine Learning
 MOOC Machine Learning Andrew Ng - Coursera/Stanford (Notes)
@@ -308,7 +308,7 @@ Probabilistic Machine Learning 2020 - University of Tübingen
 Statistical Machine Learning 2020 - Ulrike von Luxburg - University of Tübingen
 COMS W4995 - Applied Machine Learning - Spring 2020 - Columbia University
 
-##Data Mining
+## Data Mining
 
 CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington (YouTube)
 CS 5140/6140 - Data Mining, Spring 2016, University of Utah (Youtube)
@@ -346,7 +346,7 @@ Probabilistic Models - UNIVERSITY OF HELSINKI
 Probabilistic Modelling and Reasoning 2015/16- University of Edinburgh
 Probabilistic Graphical Models, Spring 2018 - Notre Dame
 
-##Deep Learning
+## Deep Learning
 
 6.S191: Introduction to Deep Learning - MIT
 Deep Learning CMU
@@ -442,7 +442,7 @@ Web Information Retrieval (Proff. L. Becchetti - A. Vitaletti)
 Big Data Systems (WT 2019/20) - Prof. Dr. Tilmann Rabl - HPI
 Distributed Data Analytics (WT 2017/18) - Dr. Thorsten Papenbrock - HPI
 
-##Computer Networks
+## Computer Networks
 
 14-740 - Fundamentals of Computer Networks - CMU
 CS 144 Introduction to Computer Networking - Stanford University, Fall 2013 (Lecture videos)
@@ -468,7 +468,7 @@ Wireless Ad Hoc and Sensor Networks - IIT Kharagpur
 Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI
 CS798: Mathematical Foundations of Computer Networking - University of Waterloo
 
-##Math for Computer Scientist
+## Math for Computer Scientist
 
 List of Science & Math courses with video lectures
 Maths courses all topics covered
@@ -520,7 +520,7 @@ Statistical Computing for Scientists and Engineers - Notre Dame
 Statistical Computing, Fall 2017 - Notre Dame
 Mathematics for Machine Learning, Lectures by Ulrike von Luxburg - Tübingen Machine Learning
 
-##Web Programming and Internet Technologies
+## Web Programming and Internet Technologies
 
 Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley
 CS 75 Building Dynamic Websites - Harvard University
@@ -583,7 +583,7 @@ Analysis of Boolean Functions at CMU
 Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015
 Languages & Translators - UCLouvain LINFO2132
 
-##Embedded Systems
+## Embedded Systems
 
 EE319K Embedded Systems - UT Austin
 EE445L Embedded Systems Design Lab, Fall 2015, UTexas
@@ -617,7 +617,7 @@ Real Time systems - IIT Karaghpur
 EE 380 Colloquim on Computer Systems - Stanford University
 System storages - IISc Bangalore
 
-##Computer Organization and Architecture
+## Computer Organization and Architecture
 
 Computer Organization
 How Computers Work - Aduni
@@ -662,7 +662,7 @@ Design of Digital Circuits - ETH Zürich - Spring 2019
 Onur Mutlu @ TU Wien 2019 - Memory Systems
 Memory Systems Course - Technion, Summer 2018
 
-##Security
+## Security
 
 Internet Security (WT 2018/19) - HPI University of Potsdam
 6.858 Computer Systems Security - MIT OCW
@@ -694,7 +694,7 @@ CSN08704 - Telecommunications - Bill Buchanan - Edinburgh Napier
 CSN11128 - Incident Response and Malware Analysus - Bill Buchanan - Edinburgh Napier
 Internet Security for Beginners by Dr. Christoph Meinel - HPI
 
-##Computer Graphics
+## Computer Graphics
 
 CS184 - Computer Graphics, Fall 2012 - UC Berkeley
 ECS 175 - Computer Graphics, Fall 2009 - UC Davis
@@ -715,7 +715,7 @@ Computational Geometry - IIT Delhi
 CS 468 - Differential Geometry for Computer Science - Stanford University (Lecture videos)
 CMU 15-462/662: Computer Graphics
 
-##Image Processing and Computer Vision
+## Image Processing and Computer Vision
 
 MOOC - Digital Image procesing - Duke/Coursera
 Computer Vision 2011 - EPFL, Switzerland
@@ -750,7 +750,7 @@ Modern C++ Course For CV (2020) - University of Bonn
 Photogrammetry 1 Course – 2020 - University of Bonn
 Photogrammetry II Course 2020/21 - University of Bonn
 
-##Computational Biology
+## Computational Biology
 
 ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis (YouTube)
 CSE549 - Computational Biology - Steven Skiena - 2010 SBU
@@ -781,7 +781,7 @@ The Building Blocks of a Quantum Computer: Part 1 - TU Delft
 The Building Blocks of a Quantum Computer: Part 2 - TU Delft
 Quantum Cryptography - TU Delft
 
-##Robotics
+## Robotics
 
 CS 223A - Introduction to Robotics, Stanford University
 6.832 Underactuated Robotics - MIT OCW
@@ -824,7 +824,7 @@ Self-Driving Cars - Cyrill Stachniss - Winter 2020/21 - University of Bonn)
 Mobile Sensing and Robotics 1 – Part Stachniss (Jointly taught with PhoRS) - University of Bonn
 Mobile Sensing and Robotics 2 – Stachniss & Klingbeil/Holst - University of Bonn
 
-##Computational Finance
+## Computational Finance
 
 COMP510 - Computational Finance - Steven Skiena - 2007 HKUST
 MOOC - Mathematical Methods for Quantitative Finance, University of Washington/Coursera)
@@ -839,7 +839,7 @@ Quantitative Finance - IIT Kanpur
 Financial Derivatives & Risk Management - IIT Roorkee
 Financial Mathematics - IIT Roorkee
 
-##Blockchain Development
+## Blockchain Development
 
 Blockchain and Cryptocurrencies
 Blockchain Fundamentals Decal 2018 - Berkeley DeCal
@@ -854,16 +854,16 @@ IPFS Inter Planetary File System Dapp University
 Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodingCamp
 Web 3.0 - Build Realtime Decentralized applications
 
-Misc
+## Misc
 
-##HCI
+HCI
 CS147 - Introduction to Human-Computer Interaction Design - Stanford
 CSEP 510 - Human Computer Interaction
 Programming for Designers - COMP1400-T2 (2010) - UNSW
 08-763 Intro to HCI for Technology Executives - Fall 2015 - CMU
 05-600 HCI Pro Seminar - Fall 2015 - CMU
 
-##Game Development
+## Game Development
 
 MIT CMS.611J Creating Video Games, Fall 2014
 MOOC - Beginning Game Programming with C# - Coursera
