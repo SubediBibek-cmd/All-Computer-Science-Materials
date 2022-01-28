@@ -2,7 +2,7 @@
 Those courses for not Technical and Technical backgroud of Computer Science Field. 
 
 ## Table of Containts 
-. Introduction to Computer Science
+ Markup : *Introduction to Computer Science
 . Data Structures and Algorithms
 . Systems Programming
 . Database Systems
