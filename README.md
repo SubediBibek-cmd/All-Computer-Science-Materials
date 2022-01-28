@@ -2,29 +2,29 @@
 Those courses for not Technical and Technical backgroud of Computer Science Field. 
 
 ## Table of Containts 
-Introduction to Computer Science
-Data Structures and Algorithms
-Systems Programming
-Database Systems
-Software Engineering
-Artificial Intelligence
-Machine Learning
-Web Programming and Internet Technologies
-Computer Networks
-Math for Computer Scientist
-Theoretical CS and Programming Languages
-Embedded Systems
-Real time system evaluation
-Computer Organization and Architecture
-Security
-Computer Graphics
-Image Processing and Computer Vision
-Computational Biology
-Quantum Computing
-Robotics
-Computational Finance
-Blockchain Development
-Misc
+. Introduction to Computer Science
+. Data Structures and Algorithms
+. Systems Programming
+. Database Systems
+. Software Engineering
+. Artificial Intelligence
+. Machine Learning
+. Web Programming and Internet Technologies
+. Computer Networks
+. Math for Computer Scientist
+. Theoretical CS and Programming Languages
+. Embedded Systems
+. Real time system evaluation
+. Computer Organization and Architecture
+. Security
+. Computer Graphics
+. Image Processing and Computer Vision
+. Computational Biology
+. Quantum Computing
+. Robotics
+. Computational Finance
+. Blockchain Development
+. Misc
 
 ## Courses
 
