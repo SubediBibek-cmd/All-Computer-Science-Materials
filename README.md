@@ -4,58 +4,58 @@ Those courses for not Technical and Technical backgroud of Computer Science Fiel
 ## Table of Containts 
 - Introduction to Computer Science
 - Data Structures and Algorithms
-Markup : *Systems Programming
-Markup : *Database Systems
-Markup : *Software Engineering
-Markup : *Artificial Intelligence
-Markup : *Machine Learning
-Markup : *Web Programming and Internet Technologies
-Markup : *Computer Networks
-Markup : *Math for Computer Scientist
-Markup : *Theoretical CS and Programming Languages
-Markup : *Embedded Systems
-Markup : *Real time system evaluation
-Markup : *Computer Organization and Architecture
-Markup : *Security
-Markup : *Computer Graphics
-Markup : *Image Processing and Computer Vision
-Markup : *Computational Biology
-Markup : *Quantum Computing
-Markup : *Robotics
-Markup : *Computational Finance
-Markup : *Blockchain Development
-Markup : *Misc
+- Systems Programming
+- Database Systems
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Web Programming and Internet Technologies
+- Computer Networks
+- Math for Computer Scientist
+- Theoretical CS and Programming Languages
+- Embedded Systems
+- Real time system evaluation
+- Computer Organization and Architecture
+- Security
+- Computer Graphics
+- Image Processing and Computer Vision
+- Computational Biology
+- Quantum Computing
+- Robotics
+- Computational Finance
+- Blockchain Development
+- Misc
 
 ## Courses
 
 ## Introduction to Computer Science
 
-CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild
-6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW
-6.001 - Structure and Interpretation of Computer Programs, MIT
-CS 50 - Introduction to Computer Science, Harvard University (cs50.tv)
-CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley
-CPSC 110 - Systematic Program Design [Racket], University of British Columbia
-CS50's Understanding Technology
-CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington
-CS 1301 Intro to computing - Gatech
-CS 106A - Programming Methodology, Stanford University (Lecture Videos)
-CS 106B - Programming Abstractions, Stanford University (Lecture Videos)
-CS 106X - Programming Abstractions in C++ (Lecture Videos)
-CS 107 - Programming Paradigms, Stanford University
-CmSc 150 - Introduction to Programming with Arcade Games, Simpson College
-LINFO 1104 - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX
-FP 101x - Introduction to Functional Programming, TU Delft
-Introduction to Problem Solving and Programming - IIT Kanpur
-Introduction to programming in C - IIT Kanpur
-Programming in C++ - IIT Kharagpur
-Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)
-CS 101 - Introduction to Computer Science - Udacity
-6.00SC - Introduction to Computer Science and Programming (Spring 2011) - MIT OCW
-6.00 - Introduction to Computer Science and Programming (Fall 2008) - MIT OCW
-6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW
-Modern C++ Course (2018) - Bonn University
-Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn
+1. CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild
+2. 6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW
+3. 6.001 - Structure and Interpretation of Computer Programs, MIT
+4. CS 50 - Introduction to Computer Science, Harvard University (cs50.tv)
+5. CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley
+6. CPSC 110 - Systematic Program Design [Racket], University of British Columbia
+7. CS50's Understanding Technology
+8. CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington
+9. CS 1301 Intro to computing - Gatech
+10. CS 106A - Programming Methodology, Stanford University (Lecture Videos)
+11. CS 106B - Programming Abstractions, Stanford University (Lecture Videos)
+12. CS 106X - Programming Abstractions in C++ (Lecture Videos)
+13. CS 107 - Programming Paradigms, Stanford University
+14. CmSc 150 - Introduction to Programming with Arcade Games, Simpson College
+15. LINFO 1104 - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX
+16. FP 101x - Introduction to Functional Programming, TU Delft
+17. Introduction to Problem Solving and Programming - IIT Kanpur
+18. Introduction to programming in C - IIT Kanpur
+19. Programming in C++ - IIT Kharagpur
+20. Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)
+21. CS 101 - Introduction to Computer Science - Udacity
+22. 6.00SC - Introduction to Computer Science and Programming (Spring 2011) - MIT OCW
+23. 6.00 - Introduction to Computer Science and Programming (Fall 2008) - MIT OCW
+24. 6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW
+25. Modern C++ Course (2018) - Bonn University
+26. Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn
 
 ## Data Structures and Algorithms
 
