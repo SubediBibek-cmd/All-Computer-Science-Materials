@@ -30,7 +30,7 @@ Those courses for not Technical and Technical backgroud of Computer Science Fiel
 
 ## Introduction to Computer Science
 
-1.CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild
+1. CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild
 2. 6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW
 3. 6.001 - Structure and Interpretation of Computer Programs, MIT
 4. CS 50 - Introduction to Computer Science, Harvard University (cs50.tv)
